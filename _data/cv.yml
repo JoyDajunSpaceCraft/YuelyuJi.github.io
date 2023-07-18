@@ -13,72 +13,58 @@
   contents:
     - title: PhD
       institution: University of Pittsburgh, Pittsburgh, United Stated
-      year: 2023 -2027
+      year: 2023 - 2027
       description:
-        - PhD in Information Science
+        - PhD at School of Computing and Information
 
     - title: Graduated
       institution: University of Pittsburgh, Pittsburgh, United Stated
-      year: 2020-2022
+      year: 2020 - 2022
       description:
-        - Graduated in Information Science
-        - Description 2
+        - School of Computing and Information
 
     - title: Undergraduated
-        institution: Nanjing Agricultural University, Nanjing, China
-        year: 2016-2020
-        description:
-          - Description 1.
-          - Description 2.
+      institution: Nanjing Agricultural University, Nanjing, China
+      year: 2016 - 2020
+      description:
+        - Information Management and Information System Department
 
-- title: Machine Learning Intern
+- title: Machine Learning Researcher
   type: time_table
   contents:
     - title: Machine Learning Intern
-      institution: NetEase Cloud Music, NetEase Inc. Hangzhou, China
-      year: March 2023 - July 2023
+      institution: NetEase Cloud Music, NetEase Inc. Hangzhou, China.
+      year: March - July 2023
       description:
         - Assisted in developing Continuous Parameterization for Controlled Text Generation (CPCTG), a new approach for controlled text generation, using a Large Language Model (LLM) for style learning and Proximal Policy Optimization (PPO) for balancing factual and emotional content.
-        - title: Intern
-          contents:
-            -
-    - title: Research Assistance
-      institution: Information Science department Iris University of Pittsburgh, Pittsburgh, United Stated
-      year: Aug 2021 - present
-      description:
-        - Description 1.
-        - Description 2.
 
     - title: Research Assistance
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
+      institution: School of Computing and Information iRiS lab, University of Pittsburgh, Pittsburgh, United Stated.
       year: Aug 2021 - present
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
       description:
+        - Automatic Classification of ADRD Caregivers’ Online Information Wants, A Machine Learning Approach.
+        - At the data processing and model level, we used the GPT-2 based few-shot learning model to classify all the sentences in 200 labeled posts, and then put the sentences containing question marks or question keywords as questions, and the remaining identified sentences as background into SOTA's QA model for pre-training, and obtained a 40% The result of the QA model is then used as a question. The results of the QA model are then fed into SOTA's few-shot text classification task as a summary of the corresponding posts, and the F1 score up to 69%.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Research Assistance
+      institution: Department of Biomedical Informatics, University of Pittsburgh, Pittsburgh, United Stated.
+      year: May 2022 - present
+      description:
+        - Using Domain-Adversarial Training of Neural Networks (DANN) to predict different readmission rate in different hospitals and change the DANN as muti-source oriented task the AUROC result of the Multi-DANN up to 85% .
+
 
 - title: Open Source Projects
   type: time_table
   contents:
     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+      year: 2022 - present
+      description:
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2022
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+        - Graduate Student Researcher Scholarshi
 
 - title: Academic Interests
   type: nested_list
@@ -95,4 +81,5 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Marathon:</u> Join the Marathon at Pittsburgh.
+    - <u>Trail:</u> Walking and go trail at forest.

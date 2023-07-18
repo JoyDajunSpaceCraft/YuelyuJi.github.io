@@ -9,5 +9,6 @@ children:
       permalink: /publications/
     - title: divider
     - title: projects
-      permalink: /projects/
+
+[//]: # (      permalink: /projects/)
 ---

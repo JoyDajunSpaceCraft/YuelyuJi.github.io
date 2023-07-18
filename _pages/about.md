@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://www.sci.pitt.edu/'>School of Computing and Information</a>. yueluji@gmail.com.
 
 profile:
   align: right
@@ -15,13 +15,14 @@ profile:
     <p>Pittsburgh, PA 15232</p>
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+
+[//]: # (latest_posts: true  # includes a list of the newest posts)
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 Greetings!
 
-I am a freshly minted Ph.D. student in the Information Science department at the University of Pittsburgh. I am privileged to receive guidance from Dr. Daqing He and Dr. Ye Ye. My academic journey is sponsored by the University of Pittsburgh's iRiS Lab, where I work as a Graduate Student Researcher.
+I am a freshly minted Ph.D. student in the [Information Science department at the University of Pittsburgh](https://www.sci.pitt.edu/). I am privileged to receive guidance from Dr. Daqing He and Dr. Ye Ye. My academic journey is sponsored by the University of Pittsburgh's iRiS Lab, where I work as a Graduate Student Researcher.
 
 My main research interest lies at the intersection of machine learning and natural language processing. 
 My overarching research goal is to develop versatile machine learning systems that can understand and interpret human language to solve real-world problems.
@@ -29,7 +30,7 @@ Some of my notable work includes:
 [Transfer Learning in the EHR note at Pittsburgh](https://arxiv.org/abs/2306.17257)
 
 My research interests are: Natural Language Understanding in Biomedical Area, Multi-Model Generation, Reinforcement Learning, Transfer Learning,  Large Language Model Deploy.
-My Linkedin and Github are here [Yuelyu Ji Linkedin](https://www.linkedin.com/in/yuelyu-ji-265495154/), [Github](https://github.com/JoyDajunSpaceCraft).
+My Linkedin and Github are here [Yuelyu Ji's Linkedin](https://www.linkedin.com/in/yuelyu-ji-265495154/), [Yuelyu Ji's Github](https://github.com/JoyDajunSpaceCraft).
 
 [//]: # (Neteast Machine learning intern 			March 2023 - present)
 
