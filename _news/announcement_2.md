@@ -1,32 +1,44 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: Accepted paper by [IEEE BHI](https://bhi.embs.org/2023/)
+date: 2023-07-18 16:11:00-0400
 inline: false
 related_posts: false
 ---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
+This study presents a novel approach for summarizing Electronic Health Records (EHR), integrating a professionally developed template, Named Entity Recognition, and a sentence classification model. The results demonstrate our guidance elements significantly improve the creation of accurate and clinically meaningful summaries, contributing to the automation of EHR summaries and the enhancement of healthcare delivery and patient outcomes.
 
 ***
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
+Clinicians are usually under time pressure when they review patients' electronic health records (EHR), therefore, there are great benefits to providing clinicians high quality summarizations of patients' EHR. However, existing summarization algorithms cannot satisfy their needs. In this paper, we present a novel approach to summarize EHR notes using a guided summarization model. Our model integrates a structured template developed with a clinical domain expert, a Named Entity Recognition (NER) model and sentence classification model for guidance extraction, and a fact-checking metric for evaluating the generated summaries. We trained our model on a large de-identified EHR dataset. The results demonstrate that our guidance, which includes Chief Complaint (CC), NER, guidance from the History of Present Illness (HPI) section, and guidance from the Medical Decision Making (MDM) section, can significantly improve the performance of the models in generating accurate and clinically meaningful summaries. The Gsum (CNN) model with all the guidance aforementioned achieved the highest F1 score of 46.4, demonstrating the effectiveness of introducing precise and informative guidance to models from the general domain when the training data on the clinical domain is prohibitively sensitive and expensive. This work contributes to the ongoing efforts to automate the summarization of EHR notes, with the ultimate goal of improving healthcare delivery and patient outcomes.
 
-#### Hipster list
-<ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
-</ul>
+[//]: # (#### Hipster list)
 
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
+[//]: # (<ul>)
 
-***
+[//]: # (    <li>brunch</li>)
 
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
+[//]: # (    <li>fixie</li>)
 
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
+[//]: # (    <li>raybans</li>)
 
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+[//]: # (    <li>messenger bag</li>)
+
+[//]: # (</ul>)
+
+[//]: # ()
+[//]: # (Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.)
+
+[//]: # ()
+[//]: # (***)
+
+[//]: # ()
+[//]: # (Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.)
+
+[//]: # ()
+[//]: # (> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.)
+
+[//]: # (> —Anais Nin)
+
+[//]: # ()
+[//]: # (Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.)

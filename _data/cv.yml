@@ -15,17 +15,13 @@
       institution: University of Pittsburgh, Pittsburgh, United Stated
       year: 2023 -2027
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - PhD in Information Science
+
     - title: Graduated
       institution: University of Pittsburgh, Pittsburgh, United Stated
       year: 2020-2022
       description:
-        - Description 1.
+        - Graduated in Information Science
         - Description 2.
     - title: Undergraduated
         institution: Nanjing Agricultural University, Nanjing, China
@@ -34,29 +30,27 @@
           - Description 1.
           - Description 2.
 
-- title: Experience
+- title: Machine Learning Intern
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Machine Learning Intern
+      institution: NetEase Cloud Music, NetEase Inc. Hangzhou, China
+      year: March 2023 - July 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Assisted in developing Continuous Parameterization for Controlled Text Generation (CPCTG), a new approach for controlled text generation, using a Large Language Model (LLM) for style learning and Proximal Policy Optimization (PPO) for balancing factual and emotional content.
+        - title: Intern
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+            -
+    - title: Research Assistance
+      institution: Information Science department Iris University of Pittsburgh, Pittsburgh, United Stated
+      year: Aug 2021 - present
       description:
         - Description 1.
         - Description 2.
 
-    - title: Director
+    - title: Research Assistance
       institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+      year: Aug 2021 - present
 
     - title: Professor of Theoretical Physics
       institution: Karl-Ferdinand University, Prague, Czechoslovakia
