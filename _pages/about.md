@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 Greetings!
 
-I am a freshly minted Ph.D. student in the Information Science department at the University of Pittsburgh. I am privileged to receive guidance from Dr. Daqing He and Dr. Ye Ye. Currently, I also work part-time as a Machine Learning Intern at Neteast. My academic journey is sponsored by the University of Pittsburgh's iRiS Lab, where I work as a Graduate Student Researcher.
+I am a freshly minted Ph.D. student in the Information Science department at the University of Pittsburgh. I am privileged to receive guidance from Dr. Daqing He and Dr. Ye Ye. My academic journey is sponsored by the University of Pittsburgh's iRiS Lab, where I work as a Graduate Student Researcher.
 
 My main research interest lies at the intersection of machine learning and natural language processing. 
 My overarching research goal is to develop versatile machine learning systems that can understand and interpret human language to solve real-world problems.
