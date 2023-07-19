@@ -6,7 +6,7 @@ nav_order: 6
 dropdown: true
 children: 
     - title: publications
-      permalink: /publications/
+      permalink: /YuelyuJi.github.io/publications/
     - title: divider
     - title: projects
 
