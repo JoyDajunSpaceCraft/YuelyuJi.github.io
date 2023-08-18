@@ -32,7 +32,10 @@ jobs:
     - name: Fix permission
       run: |
         chmod a+x bin/*
+        git config user.email "yueluji@126.com"
+        git config user.name "JoyDajunSpaceCraft"
         git commit -am "add execute permission to bin/deploy"
+
     - name: Deploy 🚀
       if: github.event_name != 'pull_request'
       uses: JamesIves/github-pages-deploy-action@v4
