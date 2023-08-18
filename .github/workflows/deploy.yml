@@ -35,7 +35,7 @@ jobs:
         if git diff --exit-code; then
           echo "No changes to commit"
         else
-          git config user.email "yueluji@126.com"
+          git config user.email "yuelvji@126.com"
           git config user.name "JoyDajunSpaceCraft"
           git commit -am "add execute permission to bin/deploy"
         fi
