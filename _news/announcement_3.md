@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Accepted paper by [ICHI 2023](https://arxiv.org/abs/2306.17257) emoji! :sparkles: :smile:
+Accepted paper by [ICHI 2023](https://arxiv.org/abs/2306.17257) ! :sparkles: :smile:
