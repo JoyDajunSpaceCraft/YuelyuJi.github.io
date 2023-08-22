@@ -6,11 +6,11 @@ subtitle: <a href='https://www.sci.pitt.edu/'>School of Computing and Informatio
 
 profile:
   align: right
-  image: prof_pic.jpeg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
 
-    <p>office number</p>
+    <p>Office Location</p>
     <p>5120 5th Ave</p>
     <p>Pittsburgh, PA 15232</p>
 
