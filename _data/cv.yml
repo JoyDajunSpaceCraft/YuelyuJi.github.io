@@ -12,45 +12,44 @@
   type: time_table
   contents:
     - title: PhD
-      institution: University of Pittsburgh, Pittsburgh, United Stated
+      institution: University of Pittsburgh, Pittsburgh, United States
       year: 2023 - 2027
       description:
-        - PhD at School of Computing and Information
+        - PhD at School of Computing and Information, focusing on machine learning and natural language processing, under the supervision of Dr. Daqing He and Dr. Ye Ye.
 
-    - title: Graduated
-      institution: University of Pittsburgh, Pittsburgh, United Stated
+    - title: Master's in Information Science
+      institution: University of Pittsburgh, Pittsburgh, United States
       year: 2020 - 2022
       description:
-        - School of Computing and Information
+        - Graduated with a Master's in Information Science, specialized in large language models and biomedical informatics.
 
-    - title: Undergraduated
+    - title: Bachelor's in Information Management
       institution: Nanjing Agricultural University, Nanjing, China
       year: 2016 - 2020
       description:
-        - Information Management and Information System Department
+        - Studied in the Information Management and Information System Department, focusing on data science and system integration.
 
 - title: Machine Learning Researcher
   type: time_table
   contents:
     - title: Machine Learning Intern
-      institution: NetEase Cloud Music, NetEase Inc. Hangzhou, China.
-      year: March - July 2023
+      institution: NetEase Cloud Music, NetEase Inc. Hangzhou, China
+      year: March - August 2023
       description:
-        - Assisted in developing Continuous Parameterization for Controlled Text Generation (CPCTG), a new approach for controlled text generation, using a Large Language Model (LLM) for style learning and Proximal Policy Optimization (PPO) for balancing factual and emotional content.
+        - Developed the Continuous Parameterization for Controlled Text Generation (CPCTG) model using large language models, enhancing user satisfaction and boosting Rouge-L scores by applying reinforcement learning techniques.
 
-    - title: Research Assistance
-      institution: School of Computing and Information iRiS lab, University of Pittsburgh, Pittsburgh, United Stated.
-      year: Aug 2021 - present
+    - title: Graduate Student Researcher
+      institution: School of Computing and Information, iRiS Lab, University of Pittsburgh, Pittsburgh, United States
+      year: August 2021 - Present
       description:
-        - Automatic Classification of ADRD Caregivers’ Online Information Wants, A Machine Learning Approach.
-        - At the data processing and model level, we used the GPT-2 based few-shot learning model to classify all the sentences in 200 labeled posts, and then put the sentences containing question marks or question keywords as questions, and the remaining identified sentences as background into SOTA's QA model for pre-training, and obtained a 40% The result of the QA model is then used as a question. The results of the QA model are then fed into SOTA's few-shot text classification task as a summary of the corresponding posts, and the F1 score up to 69%.
+        - Leading the development of ReasonRank, a reranking framework that enhances interpretability in document retrieval.
+        - Co-authored BiasGuard, a bias detection and mitigation framework for clinical trial matching and medical question-answering tasks.
 
-    - title: Research Assistance
-      institution: Department of Biomedical Informatics, University of Pittsburgh, Pittsburgh, United Stated.
-      year: May 2022 - present
+    - title: Research Assistant
+      institution: Department of Biomedical Informatics, University of Pittsburgh, Pittsburgh, United States
+      year: May 2022 - Present
       description:
-        - Using Domain-Adversarial Training of Neural Networks (DANN) to predict different readmission rate in different hospitals and change the DANN as muti-source oriented task the AUROC result of the Multi-DANN up to 85% .
-
+        - Conducted research on using Domain-Adversarial Training of Neural Networks (DANN) for predicting hospital readmission rates, improving AUROC scores to 85%.
 
 - title: Open Source Projects
   type: time_table
@@ -58,28 +57,32 @@
     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
       year: 2022 - present
       description:
+        - Contributed to the al-folio Jekyll theme for academic websites.
 
 - title: Honors and Awards
   type: time_table
   contents:
     - year: 2022
       items: 
-        - Graduate Student Researcher Scholarshi
+        - Graduate Student Researcher Scholarship
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Natural Language Processing
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Machine learning in biomedical areas.
+        - Large language model deployment for clinical trial matching.
+    - title: Transfer Learning
       items:
-        - Description 1.
-        - Description 2.
+        - Applying transfer learning in the context of EHR data.
+        - Improving model generalization through multi-task learning.
+    - title: Reinforcement Learning
+      items:
+        - Using RL techniques for controlled text generation and information retrieval tasks.
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Marathon:</u> Join the Marathon at Pittsburgh.
-    - <u>Trail:</u> Walking and go trail at forest.
+    - <u>Marathon:</u> Participated in the Pittsburgh Marathon.
+    - <u>Hiking:</u> Enjoy walking and trail hiking in nature reserves.
