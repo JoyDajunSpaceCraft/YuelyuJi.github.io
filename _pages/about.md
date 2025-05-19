@@ -27,9 +27,9 @@ My research interests focus on the intersection of machine learning and natural 
 Some of my notable projects include:
 - [**Reason-to-Rank**](https://arxiv.org/abs/2410.05168): Spearheaded the development of a reranking framework that enhances document retrieval interpretability through explicit and comparative reasoning. The ReasonRank framework, fine-tuned on LLaMA3.1 7B and Mistral models, improved NDCG@5 scores by 5%, surpassing state-of-the-art models like GPT-4 on the DL19 dataset.
 - [**EquityGuard**](https://arxiv.org/abs/2410.05180): Co-authored a framework aimed at reducing bias in clinical trial matching and medical question-answering tasks. Leveraging contrastive learning and model fine-tuning, we reduced bias scores and error rates across demographic attributes, ensuring fairness in patient-trial matching.
-- [**RAG-RLRC-LaySum**](https://arxiv.org/abs/2405.13179): Developed this framework for the BioLaySumm competition, combining Retrieval-Augmented Generation and Reinforcement Learning for Readability Control. It significantly improved readability and factual accuracy in biomedical summaries.
 
-I have also worked as a Machine Learning Intern at NetEase Cloud Music, where I improved user satisfaction and text generation accuracy through reinforcement learning.
+
+I am also working in AWS as an Applied Science Intern.
 
 My research interests include: Natural Language Understanding in Biomedical Areas, Multi-Model Generation, Reinforcement Learning, Transfer Learning, and Large Language Model Deployment.
 
