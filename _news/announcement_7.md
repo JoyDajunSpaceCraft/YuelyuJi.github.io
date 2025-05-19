@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Accepted paper by [Nature npj Digital Medicine](https://www.nature.com/articles/s41746-025-01576-4) ! :sparkles: :smile:
+*Mitigating the risk of health inequity exacerbated by large language models* accepted by [Nature npj Digital Medicine](https://www.nature.com/articles/s41746-025-01576-4) ! :sparkles: :smile:

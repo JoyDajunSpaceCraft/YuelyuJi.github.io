@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Accepted paper by [ACL 2025](https://arxiv.org/abs/2410.03663) ! :sparkles: :smile:
+*Learning from Committee: Reasoning Distillation from a Mixture of Teachers with Peer-Review* accepted paper by [ACL 2025](https://arxiv.org/abs/2410.03663) ! :sparkles: :smile:

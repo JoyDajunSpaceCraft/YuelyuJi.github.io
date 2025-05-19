@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Accepted paper by [SIGIR 2025](https://arxiv.org/abs/2410.05168) ! :sparkles: :smile:
+*ReasoningRank: Teaching Student Models to Rank through Reasoning-Based Knowledge Distillation* accepted by [SIGIR 2025](https://arxiv.org/abs/2410.05168) ! :sparkles: :smile:
