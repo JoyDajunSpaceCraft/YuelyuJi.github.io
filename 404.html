@@ -1,9 +1,37 @@
----
-layout: page
-permalink: /404.html
-title: "Page not found"
-description: "Looks like there has been a mistake. Nothing exists here."
-redirect: true
----
-
-<p>You will be redirected to the main page within 3 seconds. If not redirected, please go back to the <a href="{{ site.baseurl }}/">home page</a>.</p>
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Page not found — Yuelyu Ji</title>
+<meta name="robots" content="noindex">
+<link rel="icon" href="/YuelyuJi.github.io/assets/img/favicon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Newsreader:opsz,wght@6..72,500;6..72,600&display=swap">
+<link rel="stylesheet" href="/YuelyuJi.github.io/assets/css/style.css">
+<script>
+(function () {
+  try {
+    var t = localStorage.getItem("theme");
+    if (!t) t = matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+    document.documentElement.setAttribute("data-theme", t);
+  } catch (e) { document.documentElement.setAttribute("data-theme", "light"); }
+})();
+</script>
+<style>
+  .nf { min-height: 78vh; display: grid; place-content: center; text-align: center; gap: 14px; }
+  .nf .code { font-family: var(--font-mono); font-size: .8rem; letter-spacing: .18em; color: var(--accent); }
+  .nf h1 { font-size: 2.2rem; }
+  .nf p { color: var(--text-muted); margin: 0; }
+</style>
+</head>
+<body>
+  <div class="wrap nf">
+    <div class="code">404</div>
+    <h1>This page doesn&rsquo;t exist</h1>
+    <p>The link may be out of date, or the page has moved.</p>
+    <p style="margin-top:12px"><a class="btn" href="/YuelyuJi.github.io/">Back to the homepage</a></p>
+  </div>
+</body>
+</html>
