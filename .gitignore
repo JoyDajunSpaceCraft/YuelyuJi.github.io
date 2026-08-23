@@ -3,3 +3,9 @@ Thumbs.db
 *.log
 .vscode/
 .idea/
+_site
+.jekyll-cache
+.tweet-cache
+.sass-cache
+Gemfile.lock
+vendor
